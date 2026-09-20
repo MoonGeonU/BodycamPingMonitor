@@ -5,6 +5,8 @@ Bodycam의 현재 호스트와의 실시간 네트워크 지연시간(Ping)을 �
 
 ## 주요 기능
 
+**F9 키를 눌러 현재 PING 표시를 On/Off 할 수 있습니다.**
+
 * 현재 호스트와의 실시간 Ping 표시
 * RTT(ms) 기반 측정
 * 게임 화면에서 간편하게 확인 가능
@@ -18,6 +20,8 @@ A mod that displays your real-time network latency (Ping) to the current host in
 It measures the RTT based on in-game communication and displays it in milliseconds (ms).
 
 ## Features
+
+**Press F9 to toggle the Ping display on or off.**
 
 * Real-time Ping display to the current host
 * RTT-based measurement in milliseconds (ms)
