@@ -1,4 +1,4 @@
-## Ping Monitor
+# Ping Monitor
 
 Bodycam의 현재 호스트와의 실시간 네트워크 지연시간(Ping)을 화면에 표시해주는 모드입니다.
 게임 내 통신을 기반으로 현재 호스트와의 RTT를 ms 단위로 표시합니다.
@@ -14,7 +14,7 @@ Bodycam의 현재 호스트와의 실시간 네트워크 지연시간(Ping)을 �
  
 > 이 모드는 핑을 표시하기 위한 모드이며, 게임의 네트워크 성능 자체를 개선하지는 않습니다.
 
-## Ping Monitor
+# Ping Monitor
 
 A mod that displays your real-time network latency (Ping) to the current host in Bodycam.
 It measures the RTT based on in-game communication and displays it in milliseconds (ms).
